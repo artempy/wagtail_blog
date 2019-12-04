@@ -1,4 +1,4 @@
-Django==2.2.6
+Django==2.2.8
 wagtail==2.6.3
 django-hashers-passlib==0.4
 django-storages==1.7.2
